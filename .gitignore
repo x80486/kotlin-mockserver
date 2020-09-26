@@ -1,0 +1,19 @@
+#
+# Excludes
+.gradle/
+.idea/
+.settings/
+build/
+out/
+
+.DS_Store
+.classpath
+.project
+Thumbs.db
+*.iml
+*.ipr
+*.iws
+
+
+#
+# Includes
